@@ -1,0 +1,12 @@
+{
+  "name": "valbackcarousel",
+  "version": "1.0.0",
+  "description": "A cute wavy stacked carousel with swipe gestures",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": ">=16",
+    "framer-motion": ">=6"
+  },
+  "keywords": ["carousel", "react", "swipe", "cute-ui"],
+  "author": "Valmortheos"
+}
